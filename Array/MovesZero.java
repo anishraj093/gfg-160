@@ -1,3 +1,4 @@
+package Array;
 class Solution {
     void pushZerosToEnd(int[] arr) {
         // code here
