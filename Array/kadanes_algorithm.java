@@ -1,3 +1,4 @@
+package Array;
 public class kadanes_algorithm {
     int maxSubarraySum(int[] arr) {
         // Your code here
